@@ -1,3 +1,3 @@
-# ocr
+# flutter_OCR
 
-A new Flutter project.
+flutter OCR application using Google_ml_kit
